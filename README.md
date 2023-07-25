@@ -10,3 +10,5 @@ This is a beta scraper designed to scrape latest pricing from a Ski website.
 -Add more package types
 
 -Consider scraping helment/damage waiver add ons
+
+-Speak to team about data foramtting for Tableau server push
